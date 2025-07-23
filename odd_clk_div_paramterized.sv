@@ -1,5 +1,5 @@
 // Code your design here
-// Code your design here
+// Code your design here.
 
 module odd_clk_div_paramterized
   #(parameter N = 5)
